@@ -1,9 +1,17 @@
 #!/bin/bash
 
-INPUT=$1
-OUTPUT=$(basename -s .bls $INPUT)'.bed'
+INPUT="$1"
 
-# echo $INPUT
-# echo $OUTPUT
+#check if input file is provided
+if [ -f "$INPUT" ];
+then
+    OUTPUT=$(echo $INPUT | sed -e s/.bls$//)'.bed'
+else
+    echo "ERROR: No input file prvided or file does not exist.
+Usage: ./blast2bed <blastoutput.bls>
+The blast file should be in blast outfmt 6 or 7.
+See Readme.org for more details."
+    exit 1
+fi
 
 touch $OUTPUT
