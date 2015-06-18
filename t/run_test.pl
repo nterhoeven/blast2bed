@@ -19,4 +19,6 @@ print STDERR "running $script $input\n";
 system("$script $input");
 ok(-e $result, 'script produced output');
 
+my$diff=`diff $expected $result`;
+is($diff,'','result equals expectation');
 done_testing();

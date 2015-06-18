@@ -1,0 +1,71 @@
+# BLASTN 2.2.28+
+# Query: query1
+# Database: test-subj.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+query1	subj2	100.00	12	0	0	1	12	12	23	2e-04	23.3
+query1	subj2	100.00	4	0	0	7	10	14	11	4.8	 8.5
+query1	subj2	100.00	4	0	0	3	6	85	88	4.8	 8.5
+query1	subj1	100.00	12	0	0	1	12	21	32	2e-04	23.3
+query1	subj1	100.00	12	0	0	1	12	52	63	2e-04	23.3
+query1	subj1	100.00	12	0	0	1	12	72	83	2e-04	23.3
+query1	subj1	100.00	4	0	0	7	10	73	70	4.8	 8.5
+query1	subj3	100.00	4	0	0	1	4	14	17	4.8	 8.5
+# BLASTN 2.2.28+
+# Query: query2
+# Database: test-subj.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 23 hits found
+query2	subj3	100.00	16	0	0	1	16	59	74	1e-06	30.7
+query2	subj3	100.00	8	0	0	9	16	59	66	0.040	15.9
+query2	subj3	100.00	8	0	0	1	8	67	74	0.040	15.9
+query2	subj3	100.00	6	0	0	1	6	16	21	0.52	12.2
+query2	subj3	100.00	6	0	0	5	10	16	21	0.52	12.2
+query2	subj3	100.00	6	0	0	9	14	16	21	0.52	12.2
+query2	subj3	100.00	4	0	0	13	16	16	19	6.7	 8.5
+query2	subj2	100.00	16	0	0	1	16	38	53	1e-06	30.7
+query2	subj2	100.00	16	0	0	1	16	42	57	1e-06	30.7
+query2	subj2	100.00	16	0	0	1	16	46	61	1e-06	30.7
+query2	subj2	100.00	16	0	0	1	16	50	65	1e-06	30.7
+query2	subj2	100.00	16	0	0	1	16	54	69	1e-06	30.7
+query2	subj2	100.00	13	0	0	4	16	37	49	7e-05	25.1
+query2	subj2	100.00	8	0	0	1	8	62	69	0.040	15.9
+query2	subj2	100.00	7	0	0	10	16	37	31	0.14	14.0
+query2	subj2	100.00	7	0	0	6	12	37	31	0.14	14.0
+query2	subj2	100.00	7	0	0	2	8	37	31	0.14	14.0
+query2	subj2	100.00	5	0	0	12	16	37	41	1.9	10.4
+query2	subj2	100.00	4	0	0	1	4	34	31	6.7	 8.5
+query2	subj1	100.00	4	0	0	13	16	48	45	6.7	 8.5
+query2	subj1	100.00	4	0	0	9	12	48	45	6.7	 8.5
+query2	subj1	100.00	4	0	0	5	8	48	45	6.7	 8.5
+query2	subj1	100.00	4	0	0	1	4	48	45	6.7	 8.5
+# BLASTN 2.2.28+
+# Query: query3
+# Database: test-subj.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 24 hits found
+query3	subj3	100.00	16	0	0	1	16	1	16	1e-06	30.7
+query3	subj3	100.00	10	0	0	7	16	1	10	0.003	19.6
+query3	subj3	100.00	10	0	0	1	10	7	16	0.003	19.6
+query3	subj3	100.00	4	0	0	13	16	1	4	6.7	 8.5
+query3	subj3	100.00	4	0	0	1	4	13	16	6.7	 8.5
+query3	subj2	100.00	16	0	0	1	16	90	105	1e-06	30.7
+query3	subj2	100.00	16	0	0	1	16	91	106	1e-06	30.7
+query3	subj2	100.00	10	0	0	7	16	90	99	0.003	19.6
+query3	subj2	100.00	10	0	0	1	10	97	106	0.003	19.6
+query3	subj2	100.00	4	0	0	13	16	90	93	6.7	 8.5
+query3	subj2	100.00	4	0	0	1	4	103	106	6.7	 8.5
+query3	subj1	100.00	4	0	0	1	4	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	2	5	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	3	6	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	4	7	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	5	8	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	6	9	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	7	10	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	8	11	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	9	12	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	10	13	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	11	14	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	12	15	71	74	6.7	 8.5
+query3	subj1	100.00	4	0	0	13	16	71	74	6.7	 8.5
+# BLAST processed 3 queries
