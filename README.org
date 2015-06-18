@@ -1,0 +1,17 @@
+* blast2bed
+** Description
+This script can be used to convert a tabular blast output
+to a bed file.
+** Usage
+./blast2bed <input-file>
+
+The input file should be generated with the outfmt 6 or 7 
+flag.
+If the input file name has a '.bls' file extension, it 
+will be replaced by '.bed' for the output file.
+Otherwise, the output file will be <inputfile>.bed
+
+The resulting bed file 
+has the format:
+subjectID start end QueryID
+
