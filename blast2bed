@@ -1,0 +1,9 @@
+#!/bin/bash
+
+INPUT=$1
+OUTPUT=$(basename -s .bls $INPUT)'.bed'
+
+# echo $INPUT
+# echo $OUTPUT
+
+touch $OUTPUT
