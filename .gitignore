@@ -1,2 +1,6 @@
 #ignore emacs copies
 *~
+#ignore recovery files
+\#*\#
+#ignore results_file from test run
+t/test_input.bed
