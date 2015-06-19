@@ -1,56 +1,56 @@
 #This file was generated from test_input.bls using blast2bed
-subj1 	 20 	 32 	 query1
-subj1 	 47 	 45 	 query2
-subj1 	 47 	 45 	 query2
-subj1 	 47 	 45 	 query2
-subj1 	 47 	 45 	 query2
-subj1 	 51 	 63 	 query1
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 70 	 74 	 query3
-subj1 	 71 	 83 	 query1
-subj1 	 72 	 70 	 query1
-subj2 	 102 	 106 	 query3
-subj2 	 11 	 23 	 query1
-subj2 	 13 	 11 	 query1
-subj2 	 33 	 31 	 query2
-subj2 	 36 	 31 	 query2
-subj2 	 36 	 31 	 query2
-subj2 	 36 	 31 	 query2
-subj2 	 36 	 41 	 query2
-subj2 	 36 	 49 	 query2
-subj2 	 37 	 53 	 query2
-subj2 	 41 	 57 	 query2
-subj2 	 45 	 61 	 query2
-subj2 	 49 	 65 	 query2
-subj2 	 53 	 69 	 query2
-subj2 	 61 	 69 	 query2
-subj2 	 84 	 88 	 query1
-subj2 	 89 	 105 	 query3
-subj2 	 89 	 93 	 query3
-subj2 	 89 	 99 	 query3
-subj2 	 90 	 106 	 query3
-subj2 	 96 	 106 	 query3
-subj3 	 0 	 10 	 query3
-subj3 	 0 	 16 	 query3
-subj3 	 0 	 4 	 query3
-subj3 	 12 	 16 	 query3
-subj3 	 13 	 17 	 query1
-subj3 	 15 	 19 	 query2
-subj3 	 15 	 21 	 query2
-subj3 	 15 	 21 	 query2
-subj3 	 15 	 21 	 query2
-subj3 	 58 	 66 	 query2
-subj3 	 58 	 74 	 query2
-subj3 	 6 	 16 	 query3
-subj3 	 66 	 74 	 query2
+subj1	20	32	query1	0	+
+subj1	44	48	query2	0	-
+subj1	44	48	query2	0	-
+subj1	44	48	query2	0	-
+subj1	44	48	query2	0	-
+subj1	51	63	query1	0	+
+subj1	69	73	query1	0	-
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	70	74	query3	0	+
+subj1	71	83	query1	0	+
+subj2	10	14	query1	0	-
+subj2	102	106	query3	0	+
+subj2	11	23	query1	0	+
+subj2	30	34	query2	0	-
+subj2	30	37	query2	0	-
+subj2	30	37	query2	0	-
+subj2	30	37	query2	0	-
+subj2	36	41	query2	0	+
+subj2	36	49	query2	0	+
+subj2	37	53	query2	0	+
+subj2	41	57	query2	0	+
+subj2	45	61	query2	0	+
+subj2	49	65	query2	0	+
+subj2	53	69	query2	0	+
+subj2	61	69	query2	0	+
+subj2	84	88	query1	0	+
+subj2	89	105	query3	0	+
+subj2	89	93	query3	0	+
+subj2	89	99	query3	0	+
+subj2	90	106	query3	0	+
+subj2	96	106	query3	0	+
+subj3	0	10	query3	0	+
+subj3	0	16	query3	0	+
+subj3	0	4	query3	0	+
+subj3	12	16	query3	0	+
+subj3	13	17	query1	0	+
+subj3	15	19	query2	0	+
+subj3	15	21	query2	0	+
+subj3	15	21	query2	0	+
+subj3	15	21	query2	0	+
+subj3	58	66	query2	0	+
+subj3	58	74	query2	0	+
+subj3	6	16	query3	0	+
+subj3	66	74	query2	0	+
